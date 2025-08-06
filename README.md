@@ -45,11 +45,6 @@
 <br/>
 <br/>
 
-<img src="https://github-contribution-stats.vercel.app/api/?username=Xinacy&theme=dark" alt="Contribution Snake Animation" width="100%"/>
-
-<br/>
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Xinacy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinacy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
 
